@@ -9,7 +9,32 @@
 </head>
 <body>
     <div class="mainBody">
-        hello
+        <script>
+            window.$docsify = {
+              el: '#app',
+              auto2top: true,
+              coverpage: "read.md",
+              onlyCover: false,
+              name: 'Solution Diagram',
+              repo: 'https://github.com/aarnavpant/trail.git',
+              search: {
+                noData: {
+                  '/': 'No results!'
+                },
+                paths: 'auto',
+                placeholder: {
+                  '/': 'Search'
+                }
+              }
+            }
+              
+            // always open external links in new tab  
+            window.onload = function openLinksInNewTab() {
+              Array.from(document.getElementsByTagName("a"))
+                .filter(link => link.hostname != window.location.hostname)
+                .forEach(link => link.target = '_blank');
+            }
+          </script>
     </div>
 </body>
 </html>
