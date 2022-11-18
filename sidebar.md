@@ -1,4 +1,4 @@
-* [Information].(README.md)
+* [Information](README.md)
   * [Getting Started]
   * [Key Information]
   * [Contribute]
