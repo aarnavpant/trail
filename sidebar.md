@@ -1,5 +1,4 @@
-* Information
-
+* [Information].(README.md)
   * [Getting Started]
   * [Key Information]
   * [Contribute]
@@ -14,8 +13,6 @@
 
 * References
   * [UI5-docs]
-
-* Planning
 
 * Process
 
