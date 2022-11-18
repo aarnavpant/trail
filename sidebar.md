@@ -15,7 +15,7 @@
   * UI5-docs
   * Architechtural diagram
   * Customization
-  * Libraries
+  * [Libraries](sidebar/library.md)
     * [Galilie](sidebar/galilie.md)
 
 * Process
