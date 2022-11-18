@@ -1,5 +1,5 @@
-* [Information](README.md)
-  * [Getting Started]
+* [Information]
+  * [Getting Started](sidebar/gettingStarted.md)
   * [Key Information]
   * [Contribute]
   * [Get Support / Contact Us]

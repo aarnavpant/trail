@@ -4,5 +4,3 @@
 
 * Foster reuse and collaboration,
 * Increase understanding of SAP services based architecture,
-* Enable cross-platform 
-
