@@ -1,20 +1,24 @@
-* [Information]
+* Information
   * [Getting Started](sidebar/gettingStarted.md)
-  * [Key Information]
-  * [Contribute]
-  * [Get Support / Contact Us]
+  * Key Information
+  * Contribute
+  * Get Support
 
 * Material
 
-  * [Beginners Guide]
-  * [General Concerns and Myths]
-  * [Presentations]
-  * [Links & Documents]
+  * Beginners Guide
+  * General Concerns and Myths
+  * Presentations
+  * Links & Documents
 
 * References
-  * [UI5-docs]
+  * UI5-docs
+  * Architechtural diagram
+  * Customization
+  * Libraries
+    * [Galilie](sidebar/galilie.md)
 
 * Process
 
-  * [How we work]
-  * [Wishlist]
+  * How we work
+  * Wishlist
