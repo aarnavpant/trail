@@ -1,6 +1,6 @@
 * Information
   * [Getting Started](sidebar/gettingStarted.md)
-  * Key Information
+  * [Key Information](sidebar/keyInformation.md)
   * Contribute
   * Get Support
 
@@ -15,8 +15,7 @@
   * UI5-docs
   * Architechtural diagram
   * Customization
-  * Libraries
-    * [Galilie](sidebar/galilie.md)
+  * [Libraries](sidebar/library.md)
 
 * Process
 
