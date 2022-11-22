@@ -2,13 +2,12 @@
   * [Getting Started](sidebar/gettingStarted.md)
   * [Key Information](sidebar/keyInformation.md)
   * [Contribute](sidebar/contribute.md)
-  * Get Support
 
-* Material
-
+* Material 
   * Beginners Guide
-  * General Concerns and Myths
+  * Purpose Of solution Diagram
   * Presentations
+  * Features
   * Links & Documents
 
 * References
@@ -18,6 +17,6 @@
   * [Libraries](sidebar/library.md)
 
 * Process
-
+  * Future goals
   * How we work
   * Wishlist
