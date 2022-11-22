@@ -1,7 +1,7 @@
 * Information
   * [Getting Started](sidebar/gettingStarted.md)
   * [Key Information](sidebar/keyInformation.md)
-  * Contribute
+  * [Contribute](sidebar/contribute.md)
   * Get Support
 
 * Material
