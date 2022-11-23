@@ -12,7 +12,7 @@
 
 * References
   * UI5-docs
-  * Architechtural diagram
+  * [Architechtural diagram](sidebar/architecture.md)
   * Customization
   * [Libraries](sidebar/library.md)
 
