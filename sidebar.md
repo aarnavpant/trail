@@ -5,7 +5,7 @@
 
 * Material 
   * [Beginners Guide](sidebar/guide.md)
-  * Purpose Of solution Diagram
+  * [Purpose Of solution Diagram](sidebar/purpose.md)
   * Presentations
   * [Features](sidebar/features.md)
   * Links & Documents
