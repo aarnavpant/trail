@@ -7,7 +7,7 @@
   * Beginners Guide
   * Purpose Of solution Diagram
   * Presentations
-  * Features
+  * [Features](sidebar/features.md)
   * Links & Documents
 
 * References
