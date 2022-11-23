@@ -4,7 +4,7 @@
   * [Contribute](sidebar/contribute.md)
 
 * Material 
-  * Beginners Guide
+  * [Beginners Guide](sidebar/guide.md)
   * Purpose Of solution Diagram
   * Presentations
   * [Features](sidebar/features.md)
