@@ -17,6 +17,6 @@
   * [Libraries](sidebar/library.md)
 
 * Process
-  * Future goals
+  * [Future goals](sidebar/future.md)
   * How we work
-  * Wishlist
+  * [Wishlist](sidebar/wishlist.md)
