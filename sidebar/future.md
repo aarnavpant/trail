@@ -1,10 +1,10 @@
 # Future goals
 Upcoming features of solution diagram which are planned for the next phase are:
 
-* [SVG import]()
-* [Import Draw.io SVG ]()
-* [Read/Write solution diagram to GIT]()
-* [Machine learning to scan existing diagram]()
+* [SVG import](#svg-import)
+* [Import Draw.io SVG ](#import-drawio-svg)
+* [Read/Write solution diagram to GIT](#readwrite-solution-diagram-to-git)
+* [Machine learning to scan existing diagram](#machine-learning-to-scan-existing-diagrams)
 
 # SVG import
 User can import icons to use in solution diagram for more functionality. Also solution diagram will be able to import whole diagram in SVG format as well (currently just JSON).
