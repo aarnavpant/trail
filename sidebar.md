@@ -8,12 +8,11 @@
   * [Purpose Of solution Diagram](sidebar/purpose.md)
   * Presentations
   * [Features](sidebar/features.md)
-  * Links & Documents
+  * [Links & Documents](sidebar/links_documents.md)
 
 * References
-  * UI5-docs
+  * [UI5-docs](sidebar/ui5docs.md)
   * [Architechtural diagram](sidebar/architecture.md)
-  * Customization
   * [Libraries](sidebar/library.md)
 
 * Process
