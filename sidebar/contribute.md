@@ -12,3 +12,5 @@ Solution diagram is currently newly administered application hence not much team
 
 # Help improve our Documentation
 Solution diagram is in its initial stage thus we look forward for any enhancements from our contributors, So if you find any room for improvements in [solution diagram repository](https://github.com/aarnavpant/trail) please inform us by creating a pull request
+
+# Governance model we model

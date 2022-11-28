@@ -7,3 +7,4 @@ Solution Diagram have following benifits:
   * Solution diagram is specially specialised for SAP services based solution
   * Solution diagram can be used to calculate the annual revenue for the proposed architechture
   * User will be able to mention and use their own set of rules defining the diagram
+  * Solution diagram project follows innersource approach.
