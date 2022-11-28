@@ -17,5 +17,4 @@
 
 * Process
   * [Future goals](sidebar/future.md)
-  * How we work
   * [Wishlist](sidebar/wishlist.md)
